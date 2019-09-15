@@ -1,24 +1,24 @@
-# Ejercicio 1
+# Ejercicio 1 :pencil:
 
 En este ejercicio se va a crear un nuevo directorio y se inicializará un sistema
 de control de versiones (SCV) con git.
 
-## Paso 1. Crear el directorio.
+## :construction_worker: Paso 1. Crear el directorio. 
 
-### Para Windows:
+### :checkered_flag: Para Windows:
 
 Crear un directorio directamente con el explorador, o si se está usando
 [git for Windows](https://gitforwindows.org/) ejecutar el siguiente comando
 
     mkdir taller_github
 
-### Para Linux / macOS:
+### Para Linux :penguin: / macOS :apple: :
 
 Abrir una terminal y ejecutar el siguiente comando
 
     mkdir taller_github
 
-## Paso 2. Crear el SCV.
+## :bookmark: Paso 2. Crear el SCV.
 
 Una vez creado el directorio cambiarse a este
     
@@ -34,7 +34,7 @@ y se podrá observar algo semejante al siguiente resultado
 
 :tada: ¡Felicidades! Haz creado tu primer repositorio con SCV.
 
-## Paso 3. Crea un archivo.
+## :page_facing_up: Paso 3. Crea un archivo.
 
 Asegurándose que se está trabajando dentro del directorio `taller_github/` crear un archivo de Python
 con el nombre `ejercicio_1.py` que contenga el siguiente comando
@@ -76,7 +76,7 @@ Namespaces are one honking great idea -- let's do more of those!
 En caso de **no** tener Python instalado localmente, solamente basta con crear el archivo. En realidad
 no es importante ejecutarlo, solamente es importante el archivo.
 
-## Paso 4. ¿Qué sucedió en el SCV?
+## :building_construction: Paso 4. ¿Qué sucedió en el SCV?
 
 Dentro del directorio `taller_github/` ejecutar el siguiente comando
 
@@ -99,7 +99,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 Ahora el archivo está siendo _grabado_ por el SCV, y `git` avisa que existe un cambio importante que
 debe ser registrado.
 
-## Paso 5. Proponer cambios de los archivos
+## :rotating_light: Paso 5. Proponer cambios de los archivos
 
 Hay dos formas de proponer los cambios realizados. Primero
 
@@ -129,7 +129,7 @@ Changes to be committed:
         new file:   ejercicio_1.py
 ```
 
-## Paso 6. Registrar los cambios.
+## :white_check_mark: Paso 6. Registrar los cambios.
 
 Una vez que se han propuesto los cambios es momento de **registrarlos**. Siempre es bueno registrar
 con un mensaje que diga qué fue lo que se cambió, entonces se ejecuta
@@ -144,7 +144,7 @@ y se obtiene lo siguiente
 create mode 100644 ejercicio_1.py
 ```
 
-## BONUS. Verificar el nuevo estado del directorio.
+## :alembic: BONUS. Verificar el nuevo estado del directorio.
 
 Ahora que se han registrado cambios, se pueden ver los diversos cambios en todo el directorio. Si se
 ejecuta ahora
