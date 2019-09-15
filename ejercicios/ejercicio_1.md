@@ -10,19 +10,19 @@ de control de versiones (SCV) con git.
 Crear un directorio directamente con el explorador, o si se está usando
 [git for Windows](https://gitforwindows.org/) ejecutar el siguiente comando
 
-    mkdir ejercicio_1
+    mkdir taller_github
 
 ### Para Linux / macOS:
 
 Abrir una terminal y ejecutar el siguiente comando
 
-    mkdir ejercicio_1
+    mkdir taller_github
 
 ## Paso 2. Crear el SCV.
 
 Una vez creado el directorio cambiarse a este
     
-    cd ejercicio_1
+    cd taller_github
 
 y luego **inicializarlo**
 
@@ -30,13 +30,13 @@ y luego **inicializarlo**
 
 y se podrá observar algo semejante al siguiente resultado
 
-    Initialized empty Git repository in /home/edwinb/ejercicio_1/.git/
+    Initialized empty Git repository in /home/edwinb/taller_github/.git/
 
 :tada: ¡Felicidades! Haz creado tu primer repositorio con SCV.
 
 ## Paso 3. Crea un archivo.
 
-Asegurándose que se está trabajando dentro del directorio `ejercicio_1/` crear un archivo de Python
+Asegurándose que se está trabajando dentro del directorio `taller_github/` crear un archivo de Python
 con el nombre `ejercicio_1.py` que contenga el siguiente comando
 
 ```python
@@ -78,7 +78,7 @@ no es importante ejecutarlo, solamente es importante el archivo.
 
 ## Paso 4. ¿Qué sucedió en el SCV?
 
-Dentro del directorio `ejercicio_1/` ejecutar el siguiente comando
+Dentro del directorio `taller_github/` ejecutar el siguiente comando
 
     git status
 
