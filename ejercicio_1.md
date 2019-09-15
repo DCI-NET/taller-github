@@ -99,9 +99,9 @@ nothing added to commit but untracked files present (use "git add" to track)
 Ahora el archivo está siendo _grabado_ por el SCV, y `git` avisa que existe un cambio importante que
 debe ser registrado.
 
-## Paso 5. Registrar los cambios
+## Paso 5. Proponer cambios de los archivos
 
-Hay dos formas de registrar los cambios. Primero
+Hay dos formas de proponer los cambios realizados. Primero
 
     git add .
 
@@ -128,3 +128,40 @@ Changes to be committed:
 (use "git rm --cached <file>..." to unstage)
         new file:   ejercicio_1.py
 ```
+
+## Paso 6. Registrar los cambios.
+
+Una vez que se han propuesto los cambios es momento de **registrarlos**. Siempre es bueno registrar
+con un mensaje que diga qué fue lo que se cambió, entonces se ejecuta
+
+    git commit -m "Mi primer archivo."
+
+y se obtiene lo siguiente
+
+```
+[master (root-commit) 2b9be29] Mi primer archivo.
+1 file changed, 1 insertion(+)
+create mode 100644 ejercicio_1.py
+```
+
+## BONUS. Verificar el nuevo estado del directorio.
+
+Ahora que se han registrado cambios, se pueden ver los diversos cambios en todo el directorio. Si se
+ejecuta ahora
+
+    git log --stat
+
+se obtiene lo siguiente
+
+```
+commit 2b9be29ec43e2cf47c6e12c6e2447901ef161556 (HEAD -> master)
+Author: Edwin <developeredwin@gmail.com>
+Date:   Sun Sep 15 17:51:32 2019 -0500
+
+    Mi primer archivo.
+
+ ejercicio_1.py | 1 +
+ 1 file changed, 1 insertion(+)
+```
+
+lo cual es muy útil para verificar el día, la hora y lo que se hizo en ese cambio.
