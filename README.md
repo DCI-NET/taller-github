@@ -10,6 +10,10 @@ entre programadores.
 El taller está hecho para realizarse en 90 minutos :watch:, con 3 ejercicios a _realizar_
 y un último ejercicio para colaborar a este repositorio.
 
+## Participantes :busts_in_silhouette:
+
+- Edwin Bedolla :computer:
+
 ## Recursos adicionales para `git` / GitHub
 
 ### Libros y referencias :blue_book:
