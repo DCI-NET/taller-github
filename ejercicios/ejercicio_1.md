@@ -139,9 +139,9 @@ con un mensaje que diga qué fue lo que se cambió, entonces se ejecuta
 y se obtiene lo siguiente
 
 ```
-[master (root-commit) 2b9be29] Mi primer archivo.
-1 file changed, 1 insertion(+)
-create mode 100644 ejercicio_1.py
+[master (root-commit) b0bc0d8] Mi primer archivo.
+ 1 file changed, 1 insertion(+)
+ create mode 100644 ejercicio_1.py
 ```
 
 ## :alembic: BONUS. Verificar el nuevo estado del directorio.
@@ -154,9 +154,9 @@ ejecuta ahora
 se obtiene lo siguiente
 
 ```
-commit 2b9be29ec43e2cf47c6e12c6e2447901ef161556 (HEAD -> master)
+commit b0bc0d83c81dbff102b1966a33ead229f8d4e415
 Author: Edwin <developeredwin@gmail.com>
-Date:   Sun Sep 15 17:51:32 2019 -0500
+Date:   Sun Sep 15 19:14:44 2019 -0500
 
     Mi primer archivo.
 

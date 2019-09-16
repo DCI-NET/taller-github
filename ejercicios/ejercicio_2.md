@@ -120,12 +120,13 @@ y se _registra_ con un mensaje
 El estado del repositorio revela que se ha hecho un nueva versión del archivo, muy diferente ahora
 
 ```
-commit 7e13e1ce107f4c3f37e7730c3427bc267eba7811 (HEAD -> master)
+commit e21254cf268d3a6dcfab72c5cd23803283758326 (HEAD -> master)
 Author: Edwin <developeredwin@gmail.com>
-Date:   Sun Sep 15 18:53:52 2019 -0500
+Date:   Sun Sep 15 19:15:46 2019 -0500
 
     Se cambió el Zen de Python por el Hola Mundo, es más corto.
 
- ejercicio_1.py | 2 ++
- 1 file changed, 2 insertions(+)
+ ejercicio_1.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
 ```
