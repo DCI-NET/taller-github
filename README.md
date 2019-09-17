@@ -13,6 +13,7 @@ y un último ejercicio para colaborar a este repositorio.
 ## Participantes :busts_in_silhouette:
 
 - Edwin Bedolla :computer:
+- Karla Doctor
 
 ## Recursos adicionales para `git` / GitHub
 
