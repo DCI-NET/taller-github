@@ -13,6 +13,7 @@ y un último ejercicio para colaborar a este repositorio.
 ## Participantes :busts_in_silhouette:
 
 - Edwin Bedolla :computer:
+- Ramón González Pérez :racing_car:
 
 ## Recursos adicionales para `git` / GitHub
 
