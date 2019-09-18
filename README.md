@@ -13,7 +13,9 @@ y un último ejercicio para colaborar a este repositorio.
 ## Participantes :busts_in_silhouette:
 
 - Edwin Bedolla :computer:
+- Karla Doctor
 - América Torre :tulip:
+
 ## Recursos adicionales para `git` / GitHub
 
 ### Libros y referencias :blue_book:
