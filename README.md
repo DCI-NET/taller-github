@@ -14,6 +14,13 @@ y un último ejercicio para colaborar a este repositorio.
 
 - Edwin Bedolla :computer:
 - Carlos Padierna
+- Edwin Bedolla :tada:
+- Walter Adame
+- Abdiel Beltran
+- Ramón González Pérez :racing_car:
+- Joel Sanchez
+- Karla Doctor
+- América Torre :tulip:
 
 ## Recursos adicionales para `git` / GitHub
 
