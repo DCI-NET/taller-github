@@ -13,8 +13,10 @@ y un último ejercicio para colaborar a este repositorio.
 ## Participantes :busts_in_silhouette:
 
 - Edwin Bedolla :computer:
+- Joel Sanchez
 - Karla Doctor
 - América Torre :tulip:
+
 
 ## Recursos adicionales para `git` / GitHub
 
