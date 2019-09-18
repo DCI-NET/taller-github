@@ -12,6 +12,8 @@ y un último ejercicio para colaborar a este repositorio.
 
 ## Participantes :busts_in_silhouette:
 
+- Edwin Bedolla :computer:
+- Carlos Padierna
 - Edwin Bedolla :tada:
 - Walter Adame
 - Abdiel Beltran
