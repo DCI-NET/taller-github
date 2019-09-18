@@ -14,6 +14,7 @@ y un último ejercicio para colaborar a este repositorio.
 
 - Edwin Bedolla :computer:
 - Karla Doctor
+- América Torre :tulip:
 
 ## Recursos adicionales para `git` / GitHub
 
